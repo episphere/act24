@@ -1,2 +1,2 @@
 # act24
-draft repo for chuck
+Draft repo for Chuck, live at https://episphere.github.io/act24 !
